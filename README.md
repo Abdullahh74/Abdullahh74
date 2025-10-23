@@ -6,14 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="wave" />
 </p>
 <p align="center"> 
-  I'm <span style="color:#00C2FF;">Abdullah Hamdy</span> ✨
+  I'm <span style="color:#00C2FF;"><strong>Abdullah Hamdy</strong></span> ✨
 </p>
 <p align="center">
-  A Front-End Developer 💻  
+  A<strong> Front-End Developer </strong>💻  
   I build modern web apps using <strong>React</strong> ⚡  
 </p>
-
-
 
 ---
 
@@ -24,7 +22,7 @@
 ---
 
 ### 💡 About Me
-<p align="left" width="60%">    
+<p align="left" width="50%">    
 <ul>
   <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
   <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
@@ -35,6 +33,7 @@
 <p align="right" width="40%">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
 </p>
+
 ---
 
 ### 🧠 Tech Stack
