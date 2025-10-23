@@ -2,9 +2,24 @@
 <h1 align="center">
 👋 Hey there! Welcome to my GitHub Profile!
 </h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="wave" />
 </p>
+
+<h2 align="center"> 
+  I'm <span style="color:#00C2FF;">Abdullah Hamdy</span> ✨
+</h2>
+
+<h3 align="center">
+  A Front-End Developer 💻  
+  I build modern web apps using <strong>React</strong> ⚡  
+</h3>
+
+
+
+---
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Tech+Lover+%F0%9F%94%A5" alt="Typing SVG" />
 </h3>
@@ -12,16 +27,20 @@
 ---
 
 ### 💡 About Me
-🚀 Passionate **Frontend Developer** specialized in **React**  
-🎨 I love crafting **modern, responsive, and elegant** user interfaces  
-📚 Always learning new technologies to level up my skills  
-⚙️ Currently exploring **Next.js** and **TypeScript**
+- 🚀 Passionate about building **clean, user-friendly interfaces**
+- 🔭 Currently learning **Next.js** & **TypeScript**
+- 🎨 Interested in **UI/UX Design**
+- 📬 Reach me at: **abdhamdy0909@gmail.com**
+  
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,git,github,figma,vscode,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,ts,git,github,figma,vscode" />
 </p>
 
 ---
