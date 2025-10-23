@@ -22,11 +22,6 @@
 ---
 
 ### 💡 About Me
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
-</p>
-
 <p>    
 <ul>
   <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
@@ -42,6 +37,12 @@
 ### 🧠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,redux,ts,git,github,figma,vscode" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding" />
 </p>
 
 ---
@@ -68,9 +69,6 @@
   </a>
   <a href="https://www.linkedin.com/in/abdullahh74/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://wa.me/+201155031980" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
 
