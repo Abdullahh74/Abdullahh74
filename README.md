@@ -6,7 +6,7 @@ I enjoy learning new technologies and sharing knowledge with others.
 
 - 🌱 I’m currently learning **Dart & Flutter**
 - 💬 Ask me about **React, Git, and UI/UX**
-- 📫 How to reach me: [Email](mailto:youremail@example.com)
+- 📫 How to reach me: [Email](mailto:abdhamdy0909@gmail.com)
 - ⚡ Fun fact: I drink more coffee than code sometimes ☕
 
 ---
@@ -20,19 +20,19 @@ I enjoy learning new technologies and sharing knowledge with others.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahHamdySaleh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahh74&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahHamdySaleh&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahh74&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌍 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/Abdullahh74" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:abdhamdy0909@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
 </p>
