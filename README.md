@@ -24,24 +24,21 @@
 ---
 
 ### 💡 About Me
-<h3 align="left">💡 About Me</h3>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <div style="flex: 1; text-align: left;">
-    <ul>
-      <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
-      <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
-      <li>🎨 Interested in <strong>UI/UX Design</strong></li>
-      <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
-    </ul>
-  </div>
-
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="left" width="60%">
+      <ul>
+        <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
+        <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
+        <li>🎨 Interested in <strong>UI/UX Design</strong></li>
+        <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+    </td>
+  </tr>
+</table>
 
 ---
 
