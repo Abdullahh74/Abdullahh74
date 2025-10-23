@@ -1,38 +1,61 @@
-# 👋 Hi, I'm Abdullah Hamdy Saleh
+<!-- Header Animation -->
+<h1 align="center">
+  Hey there 👋, I'm <span style="color:#00C2FF;">Abdullah Hamdy</span>
+</h1>
 
-### 💻 About Me
-I'm a passionate **Frontend Developer** who loves building modern web apps using **React, Redux, and Flutter**.  
-I enjoy learning new technologies and sharing knowledge with others.
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Tech+Lover+%F0%9F%94%A5" alt="Typing SVG" />
+</h3>
 
-- 🌱 I’m currently learning **Dart & Flutter**
-- 💬 Ask me about **React, Git, and UI/UX**
-- 📫 How to reach me: [Email](mailto:abdhamdy0909@gmail.com)
-- ⚡ Fun fact: I drink more coffee than code sometimes ☕
+---
+
+### 💡 About Me
+🚀 Passionate **Frontend Developer** specialized in **React**  
+🎨 I love crafting **modern, responsive, and elegant** user interfaces  
+📚 Always learning new technologies to level up my skills  
+⚙️ Currently exploring **Next.js** and **TypeScript**
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,git,github,figma,vscode,bootstrap" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahh74&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullahh74&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullahh74&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullahh74&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
-### 🌍 Connect with me
+### 🌀 Most Used Languages
 <p align="center">
-  <a href="https://www.linkedin.com/in/Abdullahh74" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahh74&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/Abdullahh74" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:abdhamdy0909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
+---
+
+### 🐍 Fun Animation
+<p align="center">
+  <img src="https://github.com/Abdullahh74/Abdullahh74/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐️ From [Abdullah Hamdy](https://github.com/Abdullahh74)
