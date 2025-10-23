@@ -2,15 +2,12 @@
 <h1 align="center">
 👋 Hey there! Welcome to my GitHub Profile!
 </h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" alt="wave" />
 </p>
-
 <h2 align="center"> 
   I'm <span style="color:#00C2FF;">Abdullah Hamdy</span> ✨
 </h2>
-
 <h3 align="center">
   A Front-End Developer 💻  
   I build modern web apps using <strong>React</strong> ⚡  
@@ -27,14 +24,23 @@
 ---
 
 ### 💡 About Me
-- 🚀 Passionate about building **clean, user-friendly interfaces**
-- 🔭 Currently learning **Next.js** & **TypeScript**
-- 🎨 Interested in **UI/UX Design**
-- 📬 Reach me at: **abdhamdy0909@gmail.com**
-  
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <div style="flex: 1;">
+    <ul>
+      <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
+      <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
+      <li>🎨 Interested in <strong>UI/UX Design</strong></li>
+      <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
+    </ul>
+  </div>
+
+  <div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+  </div>
+
+</div>
+
 
 ---
 
