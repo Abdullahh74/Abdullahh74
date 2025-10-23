@@ -63,11 +63,14 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/Abdullahh74" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a href="mailto:abdhamdy0909@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="mailto:abdhamdy0909@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/abdullahh74/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://wa.me/+201155031980" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="WhatsApp" width="40" height="40"/>
   </a>
 </p>
 
