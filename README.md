@@ -24,22 +24,17 @@
 ---
 
 ### 💡 About Me
-<table>
-  <tr>
-    <td align="left" width="60%">
-      <ul>
-        <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
-        <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
-        <li>🎨 Interested in <strong>UI/UX Design</strong></li>
-        <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
-      </ul>
-    </td>
-    <td align="right" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
-    </td>
-  </tr>
-</table>
-
+<p align="left" width="60%">    
+<ul>
+  <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
+  <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
+  <li>🎨 Interested in <strong>UI/UX Design</strong></li>   
+  <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
+</ul>
+</p>
+<p align="right" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding" />
+</p>
 ---
 
 ### 🧠 Tech Stack
