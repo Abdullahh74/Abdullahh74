@@ -22,14 +22,27 @@
 ---
 
 ### 💡 About Me
-<p>    
+
+</div>
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+###
+
+<div align="left">
+
 <ul>
   <li>🚀 Passionate about building <strong>clean, user-friendly interfaces</strong></li>
   <li>🔭 Currently learning <strong>Next.js</strong> & <strong>TypeScript</strong></li>
   <li>🎨 Interested in <strong>UI/UX Design</strong></li>   
   <li>📬 Reach me at: <strong>abdhamdy0909@gmail.com</strong></li>
 </ul>
-</p>
+
+
+</div>
+
 
 
 ---
