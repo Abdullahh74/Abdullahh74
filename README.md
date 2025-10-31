@@ -50,7 +50,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdullahh74&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdullahh74&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Abdullahh74&theme=tokyonight" height="160px"/>
 </p>
 
 ---
